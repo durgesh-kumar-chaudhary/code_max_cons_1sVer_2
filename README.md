@@ -1,0 +1,2 @@
+# code_max_cons_1sVer_2
+max_consecutive_1sversion2
